@@ -5,9 +5,7 @@
 //  Created by Paul Forstman on 7/31/24.
 //
 
-import Foundation
-
-public class StaticLibraryAClass {
+public class StaticLibraryA {
 
     public init() {}
 

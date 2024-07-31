@@ -17,13 +17,13 @@ public class StaticFrameworkClass {
     public func staticFrameworkFunction() {
         print("staticFrameworkFunction")
 
-        let x = StaticLibraryAClass()
+        let x = StaticLibraryA()
         x.staticLibraryAFunction()
 
-        let y = StaticLibraryBClass()
+        let y = StaticLibraryB()
         y.staticLibraryBFunction()
 
-        let z = StaticLibraryCClass()
+        let z = StaticLibraryC()
         z.staticLibraryCFunction()
     }
 }
